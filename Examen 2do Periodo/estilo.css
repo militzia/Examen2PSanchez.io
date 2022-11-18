@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.encabezado_MSH img {
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
+.contenedor_MSH {
+    background-color: indigo;
+}
+.parrafo_MSH {
+    width: 60%;
+    padding: 10px;
+    background-color: coral;
+    margin: auto;
+}
+p {
+    color: bisque;
+    font: 2em;
+    padding: 10px;
+    background-color: crimson;
+}
+.parrafo_MSH img {
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+h2 {
+    color: lightcyan;
+    background-color: brown;
+    font: 3em;
+    padding: auto;
+}
+ul {
+    color: bisque;
+    font: 2em;
+    background-color: crimson;
+    padding: 2em;
+}
